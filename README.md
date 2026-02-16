@@ -26,3 +26,14 @@ Each project is placed in its own folder with its own code, documentation, and s
   - Error handling for invalid city names  
 
 ---
+
+### 3. Student Management System 🎓
+- **Description:** A backend-based application to manage student records.  
+- **Tech Stack:** Java, Spring Boot, Maven  
+- **Features:**
+  - Add, update, delete, and view students
+  - RESTful API endpoints
+  - Exception handling
+  - Layered architecture (Controller, Service, Repository)
+
+---
